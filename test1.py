@@ -1,4 +1,4 @@
 import numpy as np
 
-arr = np.array([1, 2, 3])
+arr = np.array([1.0, 2.0, 3.0])
 print(np.nanmean(arr))
